@@ -1,0 +1,45 @@
+CRN;Course Code;Course Title;Instructor;Building;Day;Time;Room;Capacity;Enrolled
+;;;;;;;;;
+11988;BLG 101E;Intr. to Information Systems;Hayri Turgut Uyar;KMB;Pazartesi;0830/0929;BIL.LAB1;60;86
+11987;BLG 101E;Intr. to Information Systems;Mehmet Tahir Sandıkkaya;KMB;Pazartesi;0930/1029;BIL.LAB1;60;103
+11991;BLG 113E;Intr.toComp.Eng.and Ethics;Gökhan Seçinti;FEB;Çarşamba;1330/1529;Y2;175;233
+11733;BLG 212;Mikroişlemci Sistemleri;Tamer Ölmez;EEB;Perşembe;1230/1529;1303;30;29
+12004;BLG 212E;Microprocessor Systems;Gökhan İnce;MDB;Pazartesi;0830/1129;A105;110;109
+12005;BLG 212E;Microprocessor Systems;Ayşe Yılmazer;MDB;Pazartesi;0830/1129;A203;110;80
+11995;BLG 212E;Microprocessor Systems;Burak Berk Üstündağ;EEB;Salı;1330/1629;5304;70;63
+12012;BLG 223E;Data Structures;Gülşen Eryiğit;EEB;Salı;0830/1129;5302;95;106
+12017;BLG 223E;Data Structures;Hatice Köse;EEB;Salı;0830/1129;5304;95;104
+11736;BLG 231;Sayısal Devreler;Yücel Aydın;EEB;Salı;1230/1529;5101;50;51
+11739;BLG 231;Sayısal Devreler;Serhat İkizoğlu;EEB;Salı;1230/1529;Z1;50;52
+11741;BLG 231E;Digital Circuits;Osman Kaan Erol;EEB;Salı;1230/1529;5301;50;35
+12006;BLG 231E;Digital Circuits;Mustafa Ersel Kamaşak;EEB;Cuma;0830/1129;6309;70;76
+12008;BLG 231E;Digital Circuits;Sanem Kabadayı;EEB;Cuma;0830/1129;5202;70;73
+12010;BLG 231E;Digital Circuits;Feza Buzluca;EEB;Cuma;0830/1129;5102;70;75
+12019;BLG 252E;Object Oriented Programming;Yaşar Erenler;EEB;Pazartesi;0930/1229;5305;50;53
+11743;BLG 252E;Object Oriented Programming;Serkan Türkeli;EEB;Salı;0830/1129;6307;40;40
+14576;BLG 252E;Object Oriented Programming;Tankut Akgül;EEB;Salı;0830/1129;4102;40;22
+12040;BLG 317E;Database Systems;Hayri Turgut Uyar;EEB;Çarşamba;0830/1129;5104;110;118
+12041;BLG 317E;Database Systems;Şule Öğüdücü;EEB;Çarşamba;0830/1129;5102;110;118
+12022;BLG 335E;Analysis of Algorithms I;Hazım Kemal Ekenel;MED;Salı;0830/1129;A11;110;112
+12034;BLG 335E;Analysis of Algorithms I;Islem Rekik;EEB;Perşembe;0830/1129;5104;110;116
+12036;BLG 337E;Principles of Computer Comm.;Berk Canberk;EEB;Salı;1330/1629;6309;70;89
+12039;BLG 351E;Microcomputer Lab.;Yusuf Yaslan;MDB;Pazartesi;1330/1529;A203;60;66
+12038;BLG 351E;Microcomputer Lab.;Gökhan İnce;EEB;Çarşamba;1330/1529;5102;60;67
+12037;BLG 351E;Microcomputer Lab.;Gökhan Seçinti;EEB;Cuma;1530/1729;5104;60;62
+15591;BLG 354E;Signal&Systems for Comp.Eng.;Burak Berk Üstündağ;EEB;Pazartesi;0930/1229;---;0;1
+11745;BLG 368E;Operations Research;Serkan Türkeli;EEB;Pazartesi;0830/1129;6307;40;56
+12042;BLG 368E;Operations Research;Yakup Görkem Gökmen;EEB;Perşembe;1330/1629;2106;50;68
+12049;BLG 411E;Software Engineering;Ahmet Cüneyd Tantuğ;KMB;Salı;1330/1629;D102;100;101
+12052;BLG 411E;Software Engineering;Ayşe Tosun;MDB;Salı;1330/1629;A101;100;99
+12054;BLG 413E;System Programming;Gökhan Seçinti;EEB;Salı;0830/1129;6309;100;101
+12056;BLG 413E;System Programming;Hayri Turgut Uyar;UUB;Salı;0830/1129;D209;100;74
+12058;BLG 433E;Computer Communications;Sema Fatma Oktuğ;EEB;Çarşamba;0830/1029;5203;60;61
+12070;BLG 435E;Artificial Intelligence;Ayşe Yılmazer;EEB;Çarşamba;1330/1529;5201;60;75
+12071;BLG 439E;Computer Project I;Burak Berk Üstündağ, Deniz Turgay Altılar;EEB;Pazartesi;1330/1629;5103;70;58
+12072;BLG 447;Derleyici Tasarımı;Takuhi Nadia Erdoğan;EEB;Çarşamba;1030/1229;5203;50;26
+12073;BLG 450E;Real-Time Systems Software;Deniz Turgay Altılar;KMB;Pazartesi;0930/1129;B513;100;21
+12074;BLG 453E;Computer Vision;Gözde Ünal;UUB;Pazartesi;0930/1129;D-Z09;50;58
+12075;BLG 456E;Robotics;Hatice Köse;EEB;Cuma;0930/1129;5104;70;85
+12076;BLG 459E;Computer Security;Şerif Bahtiyar;EEB;Çarşamba;1030/1229;2106;70;79
+14712;BLG 463E;Innov. Leadership in Comp.Eng.;Alper Almelek;MDB;Perşembe;1230/1529;D106;25;17
+12079;BLG 492E;Graduation Project;Gökhan Seçinti;EEB;----;/;---;500;41
